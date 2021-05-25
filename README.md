@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Salih from Berlin, Germany
 
-<!--
-**salihyalcin/salihyalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+- 🔭 I am Working at [ITONICS](https://www.itonics-innovation.com/) as an Android Developer
 
-- 🔭 Working on [ITONICS](https://www.itonics-innovation.com/) as an Android Developer
 - 🌱 Currently, learning crucial principles of Software Craftsmanship.
-- 📕 Making a master in Geodesy and Geoinformation Science at Technische Universitat Berlin
+
+- 📕 I am doing a master in Geodesy and Geoinformation Science at Technische Universitat Berlin
+
 - 📕 PhD Candidate in Istanbul Technical University
-- 💬 Ask me about ...
+
+- 💬 Ask me about : Android, Geodesy and Geoinformation Science
+
 - 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    [Linkedin](https://www.linkedin.com/in/salihyalcin89/)
+    [Twitter](https://twitter.com/salihyalcin_/)
