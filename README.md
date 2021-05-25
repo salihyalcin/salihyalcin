@@ -13,4 +13,6 @@
 - 📫 How to reach me
 
     [Linkedin](https://www.linkedin.com/in/salihyalcin89/)
+    
+    
     [Twitter](https://twitter.com/salihyalcin_/)
