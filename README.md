@@ -10,4 +10,4 @@
 
 - 💬 Ask me about : Android, Geodesy and Geoinformation Science
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/salihyalcin89/), [Twitter](https://twitter.com/salihyalcin_/)
+- 📫 Reache me using: [Linkedin](https://www.linkedin.com/in/salihyalcin89/) or [Twitter](https://twitter.com/salihyalcin_/)
