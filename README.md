@@ -4,7 +4,7 @@
 
 - 🌱 Currently, learning crucial principles of Software Craftsmanship.
 
-- 📕 <b><u>I am doing a master</u></b> in Geodesy and Geoinformation Science at Technische Universitat Berlin
+- 📕 <u><b>I am doing a master</b></u> in Geodesy and Geoinformation Science at Technische Universitat Berlin
 
 - 📕 PhD Candidate in Istanbul Technical University
 
