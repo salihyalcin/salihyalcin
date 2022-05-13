@@ -1,12 +1,8 @@
 ### Hi there 👋 I am Salih from Berlin, Germany
 
-- 🔭  I am Working at [ITONICS](https://www.itonics-innovation.com/) as an Android Developer
+- 🔭  I am Working at [KAYAK](https://www.kayak.com/) as an Android Developer
 
 - 🌱  Currently, learning crucial principles of Software Craftsmanship.
-
-- 📕  <b>I am doing a master</b> in Geodesy and Geoinformation Science at Technische Universitat Berlin
-
-- 📕  PhD Candidate in Istanbul Technical University
 
 - 💬  Ask me about : Android, Geodesy and Geoinformation Science
 
