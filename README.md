@@ -1,4 +1,4 @@
-### Hi there 👋 I am Salih from Berlin, Germany
+### Hi there 👋 I am Salih from Ankara, Turkey
 
 - 🔭  I am Working at [Getir](https://getir.com/) as a Senior Android Developer
 
