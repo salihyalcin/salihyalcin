@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Salih from Ankara, Turkey
 
-- 🔭  I am Working at [Getir](https://getir.com/) as a Senior Android Developer
+- 🔭  I am Working as a Senior Android Developer
 
 - 🌱  Currently, learning crucial principles of Software Craftsmanship.
 
