@@ -1,4 +1,4 @@
-### Hi there 👋 I am Salih from Ankara, Turkey
+### Hi there 👋 I am Salih. 
 
 - 🔭  I am Working as a Senior Android Developer
 
